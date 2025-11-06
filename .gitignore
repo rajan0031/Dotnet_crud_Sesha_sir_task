@@ -1,0 +1,59 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Entity Framework migrations (optional)
+Migrations/
+
+# Configuration files
+appsettings.*.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Dotnet artifacts
+*.dbmdl
+*.pdb
+*.cache
+*.pidb
+*.svclog
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Docker artifacts
+*.dockerfile
+docker-compose.override.yml
+
+# Swagger generated files
+swagger/
+
+# Others
+*.vspscc
+*.vssscc
+*.orig
+*.rej
+*.sln.ide
+
+# OS-specific
+.DS_Store
+Thumbs.db
