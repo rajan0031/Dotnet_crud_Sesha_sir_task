@@ -33,6 +33,8 @@ namespace DotNetCrudAPI.Controllers
             return Ok(users);
         }
 
+        
+
 
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetUserById(int id)

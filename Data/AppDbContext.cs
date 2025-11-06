@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using DotNetCrudAPI.Models;
 
-namespace DotNetCrudAPI.Data
+namespace DotNetCrudAPI.Data 
 {
     public class AppDbContext : DbContext
     {
