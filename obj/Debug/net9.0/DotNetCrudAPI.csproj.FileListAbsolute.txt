@@ -325,3 +325,4 @@ C:\Users\2403951\OneDrive - Cognizant\Desktop\dotnetCrud\DotNetCrudAPI\obj\Debug
 C:\Users\2403951\OneDrive - Cognizant\Desktop\dotnetCrud\DotNetCrudAPI\obj\Debug\net9.0\DotNetCrudAPI.pdb
 C:\Users\2403951\OneDrive - Cognizant\Desktop\dotnetCrud\DotNetCrudAPI\obj\Debug\net9.0\DotNetCrudAPI.genruntimeconfig.cache
 C:\Users\2403951\OneDrive - Cognizant\Desktop\dotnetCrud\DotNetCrudAPI\obj\Debug\net9.0\ref\DotNetCrudAPI.dll
+C:\Users\2403951\OneDrive - Cognizant\Desktop\dotnetCrud\DotNetCrudAPI\obj\Debug\net9.0\DotNetCrudAPI.sourcelink.json
