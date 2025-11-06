@@ -1,5 +1,5 @@
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations; // used for seetting key , required , simple schema validations 
+using System.ComponentModel.DataAnnotations.Schema; //  used for this DatabaseGeneratedOption
 
 namespace DotNetCrudAPI.Models
 {
