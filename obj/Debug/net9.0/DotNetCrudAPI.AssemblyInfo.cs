@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCrudAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de9278d543c16fa0170cc73909141fd46bd0a59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b7db6dfc66289faf7eea3e583fd5ec39b0e83ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCrudAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCrudAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
